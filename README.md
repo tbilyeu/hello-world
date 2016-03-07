@@ -1,2 +1,4 @@
 # hello-world
-Trying Github
+
+
+Physicist expanding my coding skills/knowledge.
